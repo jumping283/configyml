@@ -1,0 +1,2 @@
+- name: Wayback On GitHub
+  uses: wabarc/on-github@v0.0.1
